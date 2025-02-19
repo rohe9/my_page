@@ -4,7 +4,7 @@ title: Recent Projects
 
 ---
 ### Water Access and Livelihoods of Tribal Populations in Central India
-in progress
+<a href="assets/pdf/Capstone Report 2024.pdf" download>full text</a>
 
 2024
 
