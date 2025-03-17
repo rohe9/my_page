@@ -3,6 +3,17 @@ title: Recent Projects
 ---
 
 ---
+### Debt Sustainability, Debt Restructuring, and Commodity-Linked Bonds
+in progress
+
+2025
+
+- **Overview**: This research explores the potential of State-Contingent Debt Instruments (SCDIs), particularly Commodity-Price-Linked Bonds (CPLBs), to improve debt sustainability in developing countries. It highlights how these innovative instruments can help manage debt obligations in volatile economic environments, especially for commodity-dependent nations.
+- **Methodology**: The study employs a combination of theoretical analysis, historical case studies, and financial modeling (e.g., Black-Scholes model, Monte Carlo simulations) to evaluate the effectiveness of SCDIs and CPLBs in reducing debt distress and stabilizing repayment schedules.
+- **Collaboration**: Working under Dr. Ying Qian, Non-Resident Senior Fellow at the Boston University Global Development Policy Center and former Director of Public Management, Financial Sector, and Regional Cooperation Division at the Asian Development Bank.
+- **Goals**: To provide policy recommendations for developing countries to build resilient debt portfolios, incorporating SCDIs, CPLBs, and non-US dollar-denominated bonds like Panda Bonds. The research aims to promote sustainable debt management and reduce vulnerability to external shocks.
+
+---
 ### Water Access and Livelihoods of Tribal Populations in Central India
 <a href="assets/pdf/Capstone Report 2024.pdf" download>full text</a>
 
