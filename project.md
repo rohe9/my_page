@@ -3,6 +3,20 @@ title: Recent Projects
 ---
 
 ---
+### Beyond Debt Reprofiling: China’s Role in Global South Development
+https://www.bu.edu/gdp/2026/03/05/beyond-debt-reprofiling-chinas-role-in-global-south-development/
+
+2026
+---
+### Green Developmental Statecraft: The International Dimension of Green Structural Transformation in the Global South 
+https://www.bu.edu/gdp/files/2025/09/GEGI-GST-R  eport-2025-FIN.pdf
+2025
+---
+### V20 Debt Review
+https://www.bu.edu/gdp/files/2025/07/V20-Debt-Review-2025-PB-FIN.pdf
+
+2025
+---
 ### Debt Sustainability, Debt Restructuring, and Commodity-Linked Bonds
 in progress
 
