@@ -5,7 +5,6 @@ title: Yuxin(Rosa) He
 <img src="assets/img/rosa conference 1.jpg" alt="Profile Photo" style="width: 200px; height: auto;">
 </div>
 
-##### Rosa's page
 
 <p><i>Economics Researcher</i></p>
 <p>
@@ -15,15 +14,17 @@ title: Yuxin(Rosa) He
 
 ---
 
-Hello,
+<p><i>Hello,</i></p>
 
 I'm Rosa He. Currently working at Boston University’s Global Development Policy Center (GDPC) as a research assistant. 
 
 My research interest centers on **Development Economics** and **Inclusive Development**. As Dr.Amartya Sen wrote, development is the expansion of human freedom, investigating the socio-economic dimensions of structural transitions is what excites me.
 
-Recently, my works are situated around **Climate Finance**, **Global Financial Architectures**, and **Technology Policy**. Exploring how international financial system effects the sustainable transitions in emerging economies.
+Recently, my works are situated around **[Climate Finance](/https://www.bu.edu/gdp/files/2026/04/TF-WP-023-FIN.pdf)**, **[Global Financial Architectures](/https://www.bu.edu/gdp/files/2025/07/V20-Debt-Review-2025-PB-FIN.pdf)**, and **[Technology Policy](/https://www.bu.edu/gdp/files/2025/09/GEGI-GST-Report-2025-FIN.pdf)**. Exploring how international financial system effects the sustainable transitions in emerging economies.
 
 I completed my Master’s degree in Global Development Economics from Boston University, and my Bachelor’s in Economics from Colorado State University. I'm proficient in STATA, and comfortatble with Python and R for econometrics analysis and data pipelines.
 
-Mountains of Colorado got me addicted in snowbording. Other than that, I like baking and reading novels at free time. 
+Mountains of Colorado got me addicted on snowbording. Other than that, I like baking and reading novels at free time. 
+
+Additionally, I'm an active member of Fhilanthropy Association of Xi'an City. Currently we are preparing for a project focusing on the mental health of children and adolescents aged 6-19. Please feel free to reach out if you have any insights!
 
