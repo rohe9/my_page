@@ -1,3 +1,4 @@
 theme: minima
 title: Yuxin(Rosa) He
 
+Last updated: {{ page.last_modified_at | date: "%B %d, %Y" }}
