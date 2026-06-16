@@ -20,7 +20,7 @@ I'm Rosa He. Currently working at Boston University’s Global Development Polic
 
 My research interest centers on **Development Economics** and **Inclusive Development**. As Dr.Amartya Sen wrote, development is the expansion of human freedom, investigating the socio-economic dimensions of structural transitions is what excites me.
 
-Recently, my works are situated around **[Climate Finance](/https://www.bu.edu/gdp/files/2026/04/TF-WP-023-FIN.pdf)**, **[Global Financial Architectures](/https://www.bu.edu/gdp/files/2025/07/V20-Debt-Review-2025-PB-FIN.pdf)**, and **[Technology Policy](/https://www.bu.edu/gdp/files/2025/09/GEGI-GST-Report-2025-FIN.pdf)**. Exploring how international financial system affects the sustainable transitions in emerging economies.
+Recently, my works are situated around **[Climate Finance](https://www.bu.edu/gdp/files/2026/04/TF-WP-023-FIN.pdf)**, **[Global Financial Architectures](https://www.bu.edu/gdp/files/2025/07/V20-Debt-Review-2025-PB-FIN.pdf)**, and **[Technology Policy](https://www.bu.edu/gdp/files/2025/09/GEGI-GST-Report-2025-FIN.pdf)**. Exploring how international financial system affects the sustainable transitions in emerging economies.
 
 I completed my Master’s degree in Global Development Economics from Boston University, and my Bachelor’s in Economics from Colorado State University. I'm proficient in STATA, and comfortable with Python and R for econometrics analysis and data pipelines.
 
