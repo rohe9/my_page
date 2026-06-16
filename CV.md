@@ -4,11 +4,11 @@ title: CV/Resume
 
 You can <a href="assets/pdf/Yuxin(Rosa)He_CV_3.16.pdf" download>download my CV/Resume here</a>.
 
-Summary
---
-- Education: Master's in Global Development Economics (In progress), Bachelor's in Economics with a Minor in Mathematics.
-- Skills: Proficient in data analysis using STATA, R, and Excel; strong qualitative and quantitative research abilities; excellent written and verbal communication in English and Mandarin.
-- Experience: Teaching Assistant at Boston University, Research Assistant at Boston University, Graduate Economics Association Representative, Volunteer Teacher in Qinghai, China.
+### Summary
+---
+*  **Education:** Master's in Global Development Economics, Bachelor's in Economics with a Minor in Mathematics.
+*  **Skills:** I use STATA, Python, and R. I speak English, Mandarin, and Spanish (A1). My work includes data mining, data analysis, policy analysis, writing, data visualization and other aspect of research.
+*  **Experience:** Research Assistant at GDPC, Teaching Assistant at Boston University, Research Assistant at Boston University, Graduate Economics Association Representative, Volunteer Teacher in Qinghai, China.
 
   <div class="photo-container">
     <img src="assets/img/teaching1.jpg" alt="Photo 1" width="180">
