@@ -9,6 +9,12 @@ https://www.bu.edu/gdp/2026/03/05/beyond-debt-reprofiling-chinas-role-in-global-
 2026
 
 ---
+### Climate Change and External Fragility: LIFELINE FUND AS A FINANCIAL ARRANGEMENT FOR V20 COUNTRIES
+https://www.bu.edu/gdp/files/2026/04/TF-WP-023-FIN.pdf
+
+2026
+
+---
 ### Green Developmental Statecraft: The International Dimension of Green Structural Transformation in the Global South
 https://www.bu.edu/gdp/files/2025/09/GEGI-GST-Report-2025-FIN.pdf
 
