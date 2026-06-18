@@ -6,3 +6,6 @@ header_pages:
   - CV.md
   - project.md
   - reading.md
+
+minima:
+  social_links: false
