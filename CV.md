@@ -2,7 +2,7 @@
 title: CV/Resume
 ---
 
-You can <a href="assets/pdf/Yuxin(Rosa)He_CV_3.16.pdf" download>download my CV/Resume here</a>.
+You can <a href="assets/pdf/cv_2606.pdf" download>download my CV/Resume here</a>.
 
 ### Summary
 ---
